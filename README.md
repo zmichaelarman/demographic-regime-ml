@@ -1,19 +1,8 @@
 # demographic-mortality-geometry
 
-Currently in process of reevaluating entire pipeline, my resume references a completely different project from what will appear in the repository.
-
-reasons: overfitting and practicality, data is relatively small, switching to scikit-learn, keeping dependency list as small as possible.
-
-Just completely over engineered.
-
-
 A cross national study of population aging and mortality dynamics across X countries, combining demographic analysis, machine learning, and actuarial mathematics built from Human Mortality Database.
 
-I have decided to Omit the SQL implementation in favor a a more simple and streamlined data pipeline.
 
-Work in Progress, adding on to existing research with my own contributions.
-
-Note: This project is under active development. Selected outputs and methodology documentation available. reach out at zmichaelarman@gmail.com or connect on LinkedIn.
 
 <img width="1634" height="887" alt="stability_pyramid_DEU_2019_B" src="https://github.com/user-attachments/assets/06488b85-d90c-467d-ae49-faedc47be196" />
 
